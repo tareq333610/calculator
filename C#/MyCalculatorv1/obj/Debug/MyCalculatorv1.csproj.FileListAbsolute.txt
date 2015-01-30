@@ -24,3 +24,6 @@ C:\Users\Tariqual\Downloads\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalc
 C:\Users\Tariqual\Downloads\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.g.resources
 C:\Users\Tariqual\Downloads\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.Properties.Resources.resources
 C:\Users\Tariqual\Downloads\Simple Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.csproj.GenerateResource.Cache
+C:\Users\Tariqual\Documents\GitHub\Calculator\C#\MyCalculatorv1\bin\Debug\MyCalculatorv1.exe.config
+C:\Users\Tariqual\Documents\GitHub\Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.exe
+C:\Users\Tariqual\Documents\GitHub\Calculator\C#\MyCalculatorv1\obj\Debug\MyCalculatorv1.pdb
